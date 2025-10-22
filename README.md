@@ -15,5 +15,5 @@ Video: https://youtu.be/MWDLnCSTYDk
 Evidencias: EvidenciasPunto1.docx
 
 Punto 2 : 
-Video:
+Video: https://www.youtube.com/watch?v=rgRdN7q6yC0
 Evidencias: 
