@@ -12,8 +12,9 @@ Integrantes:
 Punto 1:
 Video: https://youtu.be/MWDLnCSTYDk
 
-Evidencias: EvidenciasPunto1.docx
+Evidencias: EvidenciasPunto1.pdf
 
 Punto 2 : 
 Video: https://www.youtube.com/watch?v=rgRdN7q6yC0
-Evidencias: 
+
+Evidencias: EvidenciasPunto 2.pdf
